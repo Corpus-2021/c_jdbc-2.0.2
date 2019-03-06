@@ -1,0 +1,6 @@
+projectKey=QC:QC_c_jdbc-2.0.2
+serverUrl=https://sonar.rd.tut.fi/sonar75
+serverVersion=7.5.0.20543
+dashboardUrl=https://sonar.rd.tut.fi/sonar75/dashboard?id=QC%3AQC_c_jdbc-2.0.2
+ceTaskId=AWlUsg6HnbimOWNEd99w
+ceTaskUrl=https://sonar.rd.tut.fi/sonar75/api/ce/task?id=AWlUsg6HnbimOWNEd99w
